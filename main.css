@@ -15,6 +15,7 @@
 
 .profile_pic{
     display: flex;
+    flex-wrap: wrap;
     justify-content: flex-start;
     align-items: flex-start;
     grid-column: 2;
@@ -24,6 +25,7 @@
 
 .name{
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-items: flex-start;
     align-items: flex-start;
@@ -34,6 +36,7 @@
 
 .skills{
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-items: center;
     align-items: flex-start;
@@ -44,6 +47,7 @@
 
 .contactme{
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-items: center;
     align-items: flex-start;
@@ -54,6 +58,7 @@
 
 .certs{
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;    
     grid-column: 3;
     grid-row: 1;
@@ -63,6 +68,7 @@
 
 .quotes{
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
@@ -73,6 +79,7 @@
 
 .videos {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     grid-column: 3;
@@ -85,6 +92,7 @@
 
 .footer{
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     justify-content: center;
     align-items: flex-end;
